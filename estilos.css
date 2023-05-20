@@ -17,3 +17,7 @@ body{
     align-items: center;
 
 }
+#bien{
+    position: relative;
+    top: 10px;
+}
